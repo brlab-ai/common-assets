@@ -2,86 +2,85 @@
   {
     "id": 0,
     "name": "Basic Buzz",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/basic_buzz.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 1,
     "name": "Decrecendo",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/decrecendo.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 2,
     "name": "Long",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/long.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 3,
     "name": "Crescendo",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/crescendo.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 4,
     "name": "one-one-two",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/one_one_two.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 5,
     "name": "Irregular",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/irregular.mp3",
+    "url": null,
     "license": null,
     "author": null
   },
   {
     "id": 10,
     "name": "Basic Ringtone",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/basic_ringtone.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM10.wav",
     "license": null,
     "author": null
   },
   {
     "id": 11,
     "name": "African Drums",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/african_drums.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM11.wav",
     "license": "CC",
     "author": "Twin Musicom"
   },
   {
     "id": 13,
     "name": "For Mimi",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/for_mimi.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM13.wav",
     "license": "CC",
     "author": "Twin Musicom"
   },
   {
     "id": 14,
     "name": "Blossom",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/blossom.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM14.wav",
     "license": "CC",
     "author": "Twin Musicom"
   },
   {
     "id": 15,
     "name": "Corner Around",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/corner_around.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM15.wav",
     "license": "CC",
     "author": "Audionautix"
   },
   {
     "id": 16,
     "name": "Tuba Waddle",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/tuba_waddle.mp3",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM16.wav",
     "license": "CC",
     "author": "Audionautix"
   }
 ]
-
