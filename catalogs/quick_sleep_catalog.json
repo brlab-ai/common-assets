@@ -2,28 +2,28 @@
   {
     "id": 0,
     "name": "Brown Noise",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/brown_noise.wav",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/brown_noise_breath.wav",
     "license": null,
     "author": null
   },
   {
     "id": 3,
     "name": "Nature Bon Fire",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_bonfire.wav",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_bonfire_breath.wav",
     "license": null,
     "author": null
   },
   {
     "id": 5,
     "name": "Nature Rain",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_rain.wav",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_rain_breath.wav",
     "license": null,
     "author": null
   },
   {
     "id": 7,
     "name": "Nature Sea",
-    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_sea.wav",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_sea_breath.wav",
     "license": null,
     "author": null
   }
