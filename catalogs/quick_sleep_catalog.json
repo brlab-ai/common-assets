@@ -1,0 +1,31 @@
+[
+  {
+    "id": 0,
+    "name": "Brown Noise",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/brown_noise.mp3",
+    "license": null,
+    "author": null
+  },
+  {
+    "id": 3,
+    "name": "Nature Bon Fire",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_bon_fire.mp3",
+    "license": null,
+    "author": null
+  },
+  {
+    "id": 5,
+    "name": "Nature Rain",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_rain.mp3",
+    "license": null,
+    "author": null
+  },
+  {
+    "id": 7,
+    "name": "Nature Sea",
+    "url": "https://brlab-ai.github.io/common-assets/sounds/quicksleep/nature_sea.mp3",
+    "license": null,
+    "author": null
+  }
+]
+
