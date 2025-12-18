@@ -7,41 +7,6 @@
     "author": null
   },
   {
-    "id": 1,
-    "name": "Decrecendo",
-    "url": null,
-    "license": null,
-    "author": null
-  },
-  {
-    "id": 2,
-    "name": "Long",
-    "url": null,
-    "license": null,
-    "author": null
-  },
-  {
-    "id": 3,
-    "name": "Crescendo",
-    "url": null,
-    "license": null,
-    "author": null
-  },
-  {
-    "id": 4,
-    "name": "one-one-two",
-    "url": null,
-    "license": null,
-    "author": null
-  },
-  {
-    "id": 5,
-    "name": "Irregular",
-    "url": null,
-    "license": null,
-    "author": null
-  },
-  {
     "id": 10,
     "name": "Basic Ringtone",
     "url": "https://brlab-ai.github.io/common-assets/sounds/alarms/BPM10.wav",
